@@ -1,0 +1,375 @@
+PROJECT LINKS AND NOTES
+Website: TowsifKhan.com
+Purpose: Personal brand website, interactive portfolio, venture history, and SEO.
+
+==================================================
+1. PERSONAL BRAND
+==================================================
+
+Full name: Towsif Ahmmed Khan
+Professional name: Towsif Khan
+Personal website: https://towsifkhan.com
+
+The website should represent me personally, not function as another
+ShortSwift Studio agency website.
+
+The creative direction should use a premium dark, editorial, cinematic
+style with restrained neon-lime accents, distinctive typography,
+intentional motion, and a polished interactive portfolio.
+
+Use the supplied biography and factual documents as the primary
+sources of truth.
+
+Do not invent personal achievements, qualifications, clients,
+project results, testimonials, or business metrics.
+
+==================================================
+2. SHORTSWIFT STUDIO
+==================================================
+
+Official website:
+https://shortswift-studios-web.vercel.app/
+
+Brand portfolio:
+https://shortswift-studios-web.vercel.app/portfolio/brand
+
+Web portfolio reference:
+https://shortswift-studios-web.vercel.app/portfolio/web
+
+My role:
+Founder & CEO
+
+Founded:
+14 January 2022
+
+Services have expanded over time from video editing into web
+development, social media growth, brand development, and business growth.
+
+Important:
+Study the web portfolio reference to understand the browsing experience
+I want for my personal website.
+
+My personal portfolio should let visitors browse projects and, where
+technically possible, explore live websites from within TowsifKhan.com.
+
+Do not simply copy the agency website's design.
+
+Keep ShortSwift Studio distinct from my personal brand.
+
+Verify current team information and my specific contribution to any
+featured project before publishing claims.
+
+==================================================
+3. OTHER PROJECT AND WEBSITE REFERENCES
+==================================================
+
+HENGYUDA INTERNATIONAL TRADE CO., LTD.
+https://www.hengyudac211.com/
+
+AYAH SCENTS
+https://ayah-scents.vercel.app/
+
+SHOAIB AKTER PORTFOLIO
+https://shoaib-akter.vercel.app/
+
+BRUTAL CARNAGE FAMILY SYSTEM
+https://brutalcarnage.vercel.app/login
+
+Instructions for these references:
+
+- Inspect each website when access is available.
+- Determine what the website actually contains.
+- Verify my contribution before presenting it as my work.
+- Do not assume I own every website listed here.
+- Do not invent project descriptions, outcomes, or technical details.
+- Use screenshots only when they can be obtained legitimately.
+- If a website cannot be accessed, record that limitation.
+- If my role is unclear, flag it for verification before publication.
+
+For projects that are appropriate to feature, create an attractive
+portfolio entry with a screenshot, project description, my verified
+role, and a link to the live website.
+
+Create dedicated case-study pages only when sufficient verified
+information is available.
+
+==================================================
+4. VENTURES AND PROJECT HISTORY
+==================================================
+
+SHORTSWIFT STUDIO
+- Founded on 14 January 2022.
+- I am the Founder & CEO.
+- Original focus: video editing.
+- Web development added in 2023.
+- Social media growth added in 2024.
+- Business growth, brand development, and brand visibility added in 2025.
+- Verify current team details before publication.
+
+TSY EDITX
+- Started on 9 November 2020.
+- Began with friends Simi and Yeamin.
+- Use the biography documents to establish the actual project history.
+
+SHIKHTE CHAW
+- EdTech startup initiative started in early 2023.
+- Did not launch because of financing and partnership issues.
+- Present honestly as a past venture and learning experience.
+- Do not imply that it had a launched user base or operating course platform.
+
+SOLEXA
+- Premium sneaker brand focused on Bangladesh.
+- Started in January 2025.
+- Partners: Mesbah Hasin and Shoaib Akter.
+- Relevant areas include sourcing, China-Bangladesh logistics,
+  and brand development.
+- Verify current status before describing it as active or inactive.
+
+CHINA LINK BD
+- Started on 24 May 2025.
+- Conducted real commercial activity.
+- Became inactive around July/August 2025 while I prioritized
+  ShortSwift Studio.
+- Do not describe it as currently operating without confirmation.
+
+TECHNOLOGY PROJECTS
+Potential projects include:
+- Lead-generation and personalized-outreach software.
+- ShortSwift Server Architect.
+- ShortSwift Course Bot.
+- Other software or automation experiments documented in the supplied files.
+
+These are separate projects. Inspect the actual project materials
+before describing their purpose, progress, or completion status.
+
+Do not present unfinished software as production-ready.
+
+==================================================
+5. EDUCATION AND RESEARCH
+==================================================
+
+University:
+Chongqing Jiaotong University
+
+Program:
+Computer Science and Technology
+
+Study period:
+September 2025 to expected September 2029.
+
+Language program:
+Participated in a Chinese-language program in March 2025.
+
+Research:
+An XR-related paper is in progress, with a target before 2028.
+
+Important:
+The paper is not published. Do not disclose its topic or unpublished
+details. Do not invent a paper title, publication, supervisor,
+conference, or research result.
+
+Verify all relevant information against the biography documents.
+
+==================================================
+6. PERSONAL CONTACT AND SOCIAL LINKS
+==================================================
+
+Email:
+shortswiftstudios23@gmail.com
+
+Calendly:
+https://calendly.com/shortswiftstudios23/30min
+
+Instagram:
+https://www.instagram.com/towsif.khan.02/
+
+Facebook:
+https://www.facebook.com/towsif.khan.218701/
+
+Use these links only after checking that they work.
+
+Use a mailto link for email and appropriate external-link behavior
+for social profiles and Calendly.
+
+Do not invent other social accounts or publish private contact details.
+
+==================================================
+7. INTERACTIVE PORTFOLIO REQUIREMENTS
+==================================================
+
+Reference:
+https://shortswift-studios-web.vercel.app/portfolio/web
+
+The personal website must include an interactive project-browsing
+experience inspired by the reference.
+
+Desired capabilities:
+- Visual website thumbnails and screenshots.
+- Project browsing and relevant category filters.
+- Clear links to live websites.
+- Embedded live website previews where technically permitted.
+- An option to open the actual website in a new tab.
+- Dedicated case-study pages for suitable projects.
+- Responsive browsing on desktop, tablet, and mobile.
+- Clear distinction between live websites, screenshots, prototypes,
+  concepts, and completed projects.
+
+Respect website embedding restrictions. Do not attempt to bypass
+Content-Security-Policy or X-Frame-Options.
+
+If embedding is unavailable, use a screenshot preview and a clear
+link to the live website.
+
+Never represent a static screenshot as an interactive live website.
+
+==================================================
+8. ASSET FOLDER GUIDANCE
+==================================================
+
+The ZIP may contain these folders:
+
+01-personal-photos/
+- Authentic portraits of me.
+- Photos of me working, studying, or creating.
+- Other relevant personal photographs.
+
+02-logos/
+- Personal wordmark, if available.
+- Existing venture logos.
+- Other genuine brand identity files.
+
+03-project-screenshots/
+- Website homepage screenshots.
+- Screenshots of important inner pages.
+- Web application interfaces.
+- Genuine project previews.
+
+04-venture-assets/
+- ShortSwift Studio logo and brand materials.
+- Solexa logo, product photos, and brand graphics.
+- Existing TSY EditX assets.
+- Existing Shikhte Chaw assets.
+- Existing China Link BD assets.
+- Other genuine venture-specific materials.
+
+05-biography-and-facts/
+- Complete biography.
+- Factual record.
+- Verified milestones.
+- Relevant project descriptions.
+
+06-seo-skills/
+- site-brief-builder
+- keyword-fanout-map
+- seo-content-writer
+- onpage-optimizer
+- internal-link-architect
+- ai-visibility-checker
+- Supporting files required by the skills.
+
+Do not assume every folder contains files.
+
+Do not create fake logos or photographs to fill empty folders.
+
+==================================================
+9. SEO REQUIREMENTS
+==================================================
+
+Read and follow the actual instructions in all six supplied SEO skills.
+
+Expected workflow:
+1. Site brief builder.
+2. Keyword fanout map.
+3. SEO content writer.
+4. On-page optimizer.
+5. Internal-link architect.
+6. AI visibility checker.
+
+Implement appropriate:
+- Page titles and meta descriptions.
+- Heading hierarchy.
+- Canonical URLs.
+- Open Graph metadata.
+- Image alt text.
+- Image optimization.
+- Structured data where eligible.
+- XML sitemap.
+- robots.txt.
+- Internal linking.
+- Responsive layouts.
+- Technical SEO checks.
+
+Investigate Google Images and AI-search visibility according to the
+actual tools and capabilities available.
+
+Do not fabricate keyword metrics, AI citations, rankings, or search
+performance data.
+
+If an SEO skill requires unavailable paid tools, credentials, or APIs,
+document the limitation and complete the remaining useful work.
+
+==================================================
+10. DEVELOPMENT AND DELIVERY NOTES
+==================================================
+
+Preferred stack:
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- lucide-react
+
+Visual direction:
+- Black background.
+- Restrained neon-lime accents.
+- Bricolage Grotesque display typography.
+- Inter body typography.
+- Editorial layouts.
+- Authentic photography.
+- Purposeful motion.
+- High-quality interactive portfolio.
+
+Responsive test widths:
+- 375px
+- 768px
+- 1280px
+- 1536px
+
+Before declaring the project finished:
+- Run available tests.
+- Run TypeScript checks.
+- Run the production build.
+- Test navigation and project links.
+- Test responsive layouts.
+- Check image loading.
+- Check SEO metadata and technical files.
+- Report missing assets and unverified facts.
+
+Deliver the complete source code, required configuration, README,
+and a ZIP of the finished project if the environment supports it.
+
+Never include real API keys, passwords, bot tokens, or other secrets
+in the public website or delivered ZIP.
+
+==================================================
+11. FINAL INSTRUCTIONS
+==================================================
+
+Use this document as a reference index, not as a replacement for
+the complete biography, source documents, or SEO skill definitions.
+
+Inspect the actual files before making decisions.
+
+Keep the personal brand distinct from ShortSwift Studio and the
+other ventures.
+
+Build the actual website rather than stopping after planning.
+
+Make creative and technical decisions independently when the
+available information is sufficient.
+
+Clearly report anything you could not verify or complete.
+
+The final result should be a distinctive, premium, factual,
+search-friendly personal website with a genuinely useful
+interactive portfolio experience.
